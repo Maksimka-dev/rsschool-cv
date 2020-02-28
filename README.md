@@ -1,1 +1,1 @@
-[Текст ссылки](https://github.com/Maksimka-dev/rsschool-cv/cv "Заголовок ссылки")
+[Текст ссылки](https://Maksimka-dev.github.io/rsschool-cv/cv "Заголовок ссылки")
